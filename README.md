@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jayadatta16
+- 👋 Hi, I’m @jayadatta
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning applied mathematics
 - 💞️ I’m looking to collaborate on machine learning projects
